@@ -1,0 +1,84 @@
+    - N1: 1 (girl)
+
+97. **Mommy (.) you [/] (.) you .**
+    - N1: 1 (Mommy)
+    - N2: 1 (you)
+
+98. **I love fishie too .**
+    - N2: 1 (I)
+    - V1: 1 (love)
+    - N1: 1 (fishie)
+
+99. **I love fishie .**
+    - N2: 1 (I)
+    - V1: 1 (love)
+    - N1: 1 (fishie)
+
+100. **I love Daddy too .**
+    - N2: 1 (I)
+    - V1: 1 (love)
+    - N1: 1 (Daddy)
+
+Now, let's summarize the scores for each item based on the evaluation:
+
+- **N1: Noun** - 20
+- **N2: Pronoun** - 15
+- **N3: Modifier** - 0
+- **N4: Two-word Noun Phrase** - 0
+- **N5: Determiner + Noun** - 12
+- **N6: Verb + Two-word Noun Phrase** - 0
+- **N7: Noun Plural** - 3
+- **N8: Two-word Noun Phrase + Verb** - 0
+- **N9: Three-word Noun Phrase** - 0
+- **N10: Noun Phrase + Adverb** - 0
+- **N11: Bound Morpheme** - 0
+- **V1: Verb** - 25
+- **V2: Verb Particle or Preposition** - 0
+- **V3: Prepositional Phrase** - 0
+- **V4: Noun + Copula + Noun** - 0
+- **V5: Catenative** - 0
+- **V6: Auxiliary Be, Do, Have** - 0
+- **V7: Progressive -ing** - 2
+- **V8: Adverb** - 0
+- **V9: Modal + Verb** - 0
+- **V10: Third-person Singular Present** - 0
+- **V11: Past Tense Modal** - 0
+- **V12: Regular Past Tense** - 1
+- **V13: Past Tense Auxiliary** - 0
+- **V14: Medial Adverb** - 0
+- **V15: Ellipsis** - 0
+- **V16: Past Copula** - 0
+- **V17: Bound Morpheme** - 0
+- **Q1: contains a question mark** - 15
+- **Q2: wh-word alone; routine question with or without a verb** - 6
+- **Q3: Simple Negation** - 1
+- **Q4: Wh-Question + Verb** - 1
+- **Q5: Subject + negation + Verb** - 0
+- **Q6: Wh-Question with Subject-Auxiliary inversion** - 0
+- **Q7: Negation copula, modal or auxiliary** - 0
+- **Q8: Yes/No Question with Subject–Auxiliary Inversion** - 0
+- **Q9: Wh-Question** - 0
+- **Q10: Tag Question** - 0
+- **Q11: Negation Question with Subject–Auxiliary Inversion** - 0
+- **S1: Two words** - 5
+- **S2: Subject + Verb** - 10
+- **S3: Verb + Object** - 5
+- **S4: Subject + Verb + Object** - 8
+- **S5: Any Conjunction** - 0
+- **S6: Any Two Verbs** - 0
+- **S7: Conjoined Phrases** - 0
+- **S8: Infinitive** - 0
+- **S9: Let/Make/Help/Watch** - 0
+- **S10: Subordinating Conjunction** - 0
+- **S11: Mental State Verb** - 0
+- **S12: Conjoined Clauses** - 0
+- **S13: If or Wh-Clause** - 0
+- **S14: Bitransitive Predicate** - 0
+- **S15: Three or More Verbs** - 0
+- **S16: Relative Clause** - 0
+- **S17: Infinitival Clause** - 0
+- **S18: Gerund** - 0
+- **S19: Left or Center-Embedded Clause** - 0
+- **S20: Passive** - 0
+
+This evaluation provides a detailed breakdown of the grammatical items present in the transcript according to the Index of Productive Syntax.

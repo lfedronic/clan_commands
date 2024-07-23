@@ -1,0 +1,122 @@
+Rule: N1 - Noun
+  Score: 0
+Rule: N2 - Pronoun
+  Score: 0
+Rule: N3 - Modifier
+  Score: 2
+Rule: N4 - Modifier + N
+  Score: 0
+Rule: N5 - Article before noun
+  Score: 0
+Rule: N6 - Two-word NP after verb or prep
+  Score: 0
+Rule: N7 - Plural suffix
+  Score: 0
+Rule: N8 - Two-word NP before verb
+  Score: 0
+Rule: N9 - Three-word NP
+  Score: 0
+Rule: N10 - Adverb + head
+  Score: 0
+Rule: N11 - Other bound morpheme, N or adj
+  Score: 2
+Rule: V1 - Verb
+  Score: 1
+Rule: V2 - Preposition
+  Score: 0
+Rule: V3 - Prep + N
+  Score: 0
+Rule: V4 - Copula linking two Ns
+  Score: 0
+Rule: V5 - Modal + V
+  Score: 0
+Rule: V6 - Auxiliary BE, DO, HAVE
+  Score: 0
+Rule: V7 - Progressive -ing
+  Score: 0
+Rule: V8 - Adverb
+  Score: 2
+Rule: V9 - Modal + V
+  Score: 0
+Rule: V10 - Third-person sing. pres.
+  Score: 0
+Rule: V11 - Past tense modal
+  Score: 0
+Rule: V12 - Regular past tense
+  Score: 0
+Rule: V13 - Past tense auxiliary
+  Score: 0
+Rule: V14 - Adverb + V
+  Score: 0
+Rule: V151 - Ellipsis with copula
+  Score: 0
+Rule: V152 - Ellipsis with auxiliary
+  Score: 0
+Rule: V153 - Ellipsis with modal
+  Score: 0
+Rule: V16 - Past tense copula
+  Score: 0
+Rule: V17 - Other bound morpheme on V
+  Score: 0
+Rule: Q1 - Intonation
+  Score: 2
+Rule: Q2 - Routine
+  Score: 2
+Rule: Q3 - Simple Negation
+  Score: 0
+Rule: Q4 - Wh-question
+  Score: 2
+Rule: Q5 - Neg. between subject + verb
+  Score: 0
+Rule: Q6 - Wh-Q w/ inverted modal
+  Score: 2
+Rule: Q7 - Negation of aux/modal/copula
+  Score: 0
+Rule: Q8 - Yes/no Q w/ inverted aux/modal/copula
+  Score: 0
+Rule: Q9 - Why, when, which, whose
+  Score: 0
+Rule: Q10 - Tag question
+  Score: 0
+Rule: Q11 - Q w/ negation + inversion
+  Score: 0
+Rule: S1 - Two words
+  Score: 2
+Rule: S2 - Subject-verb
+  Score: 0
+Rule: S3 - Verb-object
+  Score: 0
+Rule: S4 - Subject-verb-object
+  Score: 0
+Rule: S5 - Conjunction (any)
+  Score: 0
+Rule: S6 - Any two Vs
+  Score: 0
+Rule: S7 - Conjoined phrases
+  Score: 0
+Rule: S8 - Infinitive
+  Score: 0
+Rule: S9 - Let/Make/Help/Watch
+  Score: 0
+Rule: S10 - Subordinating conj.
+  Score: 0
+Rule: S11 - Mental state V
+  Score: 0
+Rule: S12 - Conjoined clauses
+  Score: 0
+Rule: S13 - If or wh-clause
+  Score: 0
+Rule: S14 - Bitransitive predicate
+  Score: 0
+Rule: S15 - Three or more (nonaux) Vs
+  Score: 0
+Rule: S16 - Relative clause
+  Score: 0
+Rule: S17 - Infinitive clause: new subject
+  Score: 0
+Rule: S18 - Gerund
+  Score: 0
+Rule: S19 - Fronted or center subord. clause
+  Score: 0
+Rule: S20 - Passive
+  Score: 0
